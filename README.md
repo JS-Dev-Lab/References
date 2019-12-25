@@ -9,6 +9,7 @@
 
  - [Elm architecture](https://guide.elm-lang.org/architecture/)
      - [Elm Example](https://software.garden/day-5.html)
+     - [Elmish](https://elmish.github.io/elmish/)
 
  - [flutter](https://medium.com/flutter-community/flutter-and-dartea-create-mobile-application-with-pleasure-c1866ff2b4d4)
      - [dartea](https://github.com/p69/dartea)
