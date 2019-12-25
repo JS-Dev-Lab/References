@@ -20,6 +20,28 @@
  
 ### MVI
 
+### Sum-up
+
+From https://cycle.js.org/model-view-intent.html
+
+- intent() `function`
+  - Purpose: interpret DOM events as user’s intended actions
+  - Input: DOM source
+  - Output: Action Streams
+
+- model() `function`
+  - Purpose: manage state
+  - Input: Action Streams
+  - Output: State Stream
+
+- view() `function`
+  - Purpose: visually represent state from the Model
+  - Input: State Stream
+  - Output: Stream of Virtual DOM nodes as the DOM Driver sink
+
+
+### References
+
    - [MVI(Model-View-Intent) Pattern in Android](https://medium.com/code-yoga/mvi-model-view-intent-pattern-in-android-98c143d1ee7c)
    - [MVI - a Reactive Architecture Pattern
 ](https://medium.com/mindorks/mvi-a-reactive-architecture-pattern-45c6f5096ab7)
@@ -27,11 +49,17 @@
  
 
 
+
+
 ## Event streams
 
+  - [bacon.js](https://baconjs.github.io/)
   - [RxJS](https://github.com/ReactiveX/RxJS)
+  - [xstream](http://staltz.github.io/xstream/)
+  - [most](https://github.com/cujojs/most/)
 
   - [cycle.js](https://cycle.js.org/)
+
 
 ## States
 
@@ -79,6 +107,8 @@
  - [apprun](https://github.com/yysun/apprun)
  
  - [dojo](https://dojo.io/)
+
+- [cycle.js](https://cycle.js.org/)
  
  - [svelte](https://github.com/sveltejs/svelte)
 
