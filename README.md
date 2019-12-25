@@ -22,7 +22,15 @@
    - [MVI(Model-View-Intent) Pattern in Android](https://medium.com/code-yoga/mvi-model-view-intent-pattern-in-android-98c143d1ee7c)
    - [MVI - a Reactive Architecture Pattern
 ](https://medium.com/mindorks/mvi-a-reactive-architecture-pattern-45c6f5096ab7)
+   - [Model-View-Intent by cycle.js](https://cycle.js.org/model-view-intent.html)
  
+
+
+## Event streams
+
+  - [RxJS](https://github.com/ReactiveX/RxJS)
+
+  - [cycle.js](https://cycle.js.org/)
 
 ## States
 
