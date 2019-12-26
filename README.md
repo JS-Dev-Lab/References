@@ -71,6 +71,8 @@ From https://cycle.js.org/model-view-intent.html
 
   - [mobx-state-tree](https://mobx-state-tree.js.org/intro/philosophy)
 
+  - [freezer](https://github.com/arqex/freezer)
+
   - [Cerebral.js](https://cerebraljs.com/)
 
 ### Tools
@@ -86,7 +88,7 @@ From https://cycle.js.org/model-view-intent.html
     - [A Cartoon Intro to Fiber ](https://www.youtube.com/watch?v=ZCuYPiUIONs)
 
 
-## Library
+#### Library
 
 ### DOM updater
 
@@ -99,6 +101,10 @@ From https://cycle.js.org/model-view-intent.html
 - [maquette.js](https://maquettejs.org/)
 
 - [redom](https://redom.js.org/)
+
+- [DomVm](https://github.com/domvm/domvm)
+
+- [snabbdom](https://github.com/snabbdom/snabbdom)
 
 ### Full
 
@@ -113,7 +119,7 @@ From https://cycle.js.org/model-view-intent.html
  - [svelte](https://github.com/sveltejs/svelte)
 
 
-# Standards
+## Standards
 
 ### Web Components
 
@@ -122,3 +128,10 @@ From https://cycle.js.org/model-view-intent.html
 - [stencil js](https://stenciljs.com/)
 
 - [lit-element](https://lit-element.polymer-project.org/)
+
+
+## Others
+
+### Routers
+
+- [navigo](https://github.com/krasimir/navigo)
