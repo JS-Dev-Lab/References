@@ -39,17 +39,13 @@ From https://cycle.js.org/model-view-intent.html
   - Input: State Stream
   - Output: Stream of Virtual DOM nodes as the DOM Driver sink
 
+### Videos
+  - [What if the user was a function? by Andre Staltz at JSConf Budapest 2015](https://www.youtube.com/watch?v=1zj7M1LnJV4)
 
 ### References
-
+   - [](http://hannesdorfmann.com/android/mosby3-mvi-1)
    - [MVI(Model-View-Intent) Pattern in Android](https://medium.com/code-yoga/mvi-model-view-intent-pattern-in-android-98c143d1ee7c)
-   - [MVI - a Reactive Architecture Pattern
-](https://medium.com/mindorks/mvi-a-reactive-architecture-pattern-45c6f5096ab7)
    - [Model-View-Intent by cycle.js](https://cycle.js.org/model-view-intent.html)
- 
-
-
-
 
 ## Event streams
 
