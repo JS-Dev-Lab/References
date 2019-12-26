@@ -20,7 +20,7 @@
  
 ### MVI
 
-### Sum-up
+### Principles
 
 From https://cycle.js.org/model-view-intent.html
 
@@ -41,6 +41,7 @@ From https://cycle.js.org/model-view-intent.html
 
 ### Videos
   - [What if the user was a function? by Andre Staltz at JSConf Budapest 2015](https://www.youtube.com/watch?v=1zj7M1LnJV4)
+   - [slides](https://speakerdeck.com/staltz/what-if-the-user-was-a-function)
 
 ### References
    - [REACTIVE APPS WITH MODEL-VIEW-INTENT](http://hannesdorfmann.com/android/mosby3-mvi-1)
