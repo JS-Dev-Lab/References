@@ -43,7 +43,7 @@ From https://cycle.js.org/model-view-intent.html
   - [What if the user was a function? by Andre Staltz at JSConf Budapest 2015](https://www.youtube.com/watch?v=1zj7M1LnJV4)
 
 ### References
-   - [](http://hannesdorfmann.com/android/mosby3-mvi-1)
+   - [REACTIVE APPS WITH MODEL-VIEW-INTENT](http://hannesdorfmann.com/android/mosby3-mvi-1)
    - [MVI(Model-View-Intent) Pattern in Android](https://medium.com/code-yoga/mvi-model-view-intent-pattern-in-android-98c143d1ee7c)
    - [Model-View-Intent by cycle.js](https://cycle.js.org/model-view-intent.html)
 
