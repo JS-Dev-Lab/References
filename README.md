@@ -79,10 +79,10 @@ From https://cycle.js.org/model-view-intent.html
 
 ## Performance
 
- - [React optimization](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
-
+- [Benchmarks](https://stefankrause.net/js-frameworks-benchmark8/table.html)
+- [React optimization](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
 - [React fiber](https://github.com/acdlite/react-fiber-architecture)
-    - [A Cartoon Intro to Fiber ](https://www.youtube.com/watch?v=ZCuYPiUIONs)
+  - [A Cartoon Intro to Fiber ](https://www.youtube.com/watch?v=ZCuYPiUIONs)
 
 
 #### Library
@@ -102,6 +102,14 @@ From https://cycle.js.org/model-view-intent.html
 - [DomVm](https://github.com/domvm/domvm)
 
 - [snabbdom](https://github.com/snabbdom/snabbdom)
+
+- [hyperdom](https://hyperdom.org/#/)
+
+- [simulacra.js](https://simulacra.js.org/)
+
+- [Binding.scala](https://github.com/ThoughtWorksInc/Binding.scala)
+
+- [petit-dom](https://github.com/yelouafi/petit-dom)
 
 ### Full
 
