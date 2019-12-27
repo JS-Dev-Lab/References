@@ -111,6 +111,8 @@ From https://cycle.js.org/model-view-intent.html
 
 - [petit-dom](https://github.com/yelouafi/petit-dom)
 
+- [vidom](https://github.com/dfilatov/vidom)
+
 ### Full
 
  - [ractive](https://github.com/ractivejs/ractive)
