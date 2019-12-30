@@ -1,5 +1,15 @@
 # UI architecture
 
+
+## MV*
+
+```mermaid
+graph LR
+  M(Model) --> |state| V(View)
+  I(Intends) --> |commands-message| M
+
+```
+
 ## Concepts
 
 - [UI = view(application_state)](https://medium.com/@mweststrate/pure-rendering-in-the-light-of-time-and-state-4b537d8d40b1)
