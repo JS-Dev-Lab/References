@@ -3,12 +3,32 @@
 
 ## MV*
 
+### Overview
+
 ```mermaid
 graph LR
   M(Model) --> |state| V(View)
   I(Intends) --> |commands-message| M
 
 ```
+
+```mermaid
+graph LR
+  I(Intends) --> |message| M
+  M(Model) --> |state| V(View)
+  V -->|result| DOM[/DOM-Result/Sink/]
+  DOM --> |sink| I
+
+```
+
+State is not the Model
+
+### Principles
+  - [KISS, keep it small and simple](https://www.wikiwand.com/en/KISS_principle)
+  - [Simple things should be simple, complex things should be possible](https://www.wikiwand.com/en/Alan_Kay)
+  - Composable
+  - Scalable
+  - Use the platform
 
 ## Concepts
 
