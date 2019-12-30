@@ -27,6 +27,7 @@ State is not the Model
   - [KISS, keep it small and simple](https://www.wikiwand.com/en/KISS_principle)
   - [Simple things should be simple, complex things should be possible](https://www.wikiwand.com/en/Alan_Kay)
   - Composable
+  - Refactorable
   - Scalable
   - Use the platform
 
