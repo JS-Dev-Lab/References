@@ -171,6 +171,10 @@ From https://cycle.js.org/model-view-intent.html
 
 ## Others
 
+### Videos
+
+- [Angular, React, Vue and Co: Web Components and Mini Apps](https://www.youtube.com/watch?v=QGo_EBjCoyI)
+
 ### Routers
 
 - [navigo](https://github.com/krasimir/navigo)
