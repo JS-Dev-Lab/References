@@ -162,6 +162,7 @@ From https://cycle.js.org/model-view-intent.html
 ### Web Components
 
 - [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
+    - [Building Components - google](https://developers.google.com/web/fundamentals/web-components)
     - [custom elements](https://www.html5rocks.com/en/tutorials/webcomponents/customelements/)
 
 - [stencil js](https://stenciljs.com/)
