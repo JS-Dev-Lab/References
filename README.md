@@ -51,7 +51,7 @@ State is not the Model
  
 ### MVI
 
-### Principles
+#### Principles
 
 From https://cycle.js.org/model-view-intent.html
 
@@ -70,14 +70,18 @@ From https://cycle.js.org/model-view-intent.html
   - Input: State Stream
   - Output: Stream of Virtual DOM nodes as the DOM Driver sink
 
-### Videos
+#### Videos
   - [What if the user was a function? by Andre Staltz at JSConf Budapest 2015](https://www.youtube.com/watch?v=1zj7M1LnJV4)
    - [slides](https://speakerdeck.com/staltz/what-if-the-user-was-a-function)
 
-### References
+#### References
    - [REACTIVE APPS WITH MODEL-VIEW-INTENT](http://hannesdorfmann.com/android/mosby3-mvi-1)
    - [MVI(Model-View-Intent) Pattern in Android](https://medium.com/code-yoga/mvi-model-view-intent-pattern-in-android-98c143d1ee7c)
    - [Model-View-Intent by cycle.js](https://cycle.js.org/model-view-intent.html)
+   
+   
+ ### SAM
+ - [sam.js](https://sam.js.org/)
 
 ## Event streams
 
