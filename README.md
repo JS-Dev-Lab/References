@@ -106,6 +106,10 @@ From https://cycle.js.org/model-view-intent.html
   - [freezer](https://github.com/arqex/freezer)
 
   - [Cerebral.js](https://cerebraljs.com/)
+  
+### Finite state machine
+
+- [xstate](https://xstate.js.org/docs/)
 
 ### Tools
 
