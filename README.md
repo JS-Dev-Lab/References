@@ -111,6 +111,10 @@ From https://cycle.js.org/model-view-intent.html
 
 - [xstate](https://xstate.js.org/docs/)
 
+  [Presentation](https://slides.com/davidkhourshid/finite-state-machines#/)
+
+
+
 ### Tools
 
   - [remotedev](https://github.com/zalmoxisus/remotedev)
