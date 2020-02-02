@@ -33,9 +33,10 @@ State is not the Model
 
 ## Concepts
 
-### UI = view(application_state)
+### UI = view(application_state) (Pure UI)
 - [Pure UI](https://rauchg.com/2015/pure-ui)
 - [Pure rendering in the light of time and state](https://medium.com/@mweststrate/pure-rendering-in-the-light-of-time-and-state-4b537d8d40b1)
+- [Pure UI Control](https://medium.com/@asolove/pure-ui-control-ac8d1be97a8d)
 
 
 ### MVU
