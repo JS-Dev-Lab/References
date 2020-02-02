@@ -114,7 +114,8 @@ From https://cycle.js.org/model-view-intent.html
 - [xstate](https://xstate.js.org/docs/)
 
   [Presentation](https://slides.com/davidkhourshid/finite-state-machines#/)
-
+  
+  [Video](https://www.youtube.com/watch?v=VU1NKX6Qkxc)
 
 
 ### Tools
