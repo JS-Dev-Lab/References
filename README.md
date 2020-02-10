@@ -122,6 +122,10 @@ From https://cycle.js.org/model-view-intent.html
 ### Tools
 
   - [remotedev](https://github.com/zalmoxisus/remotedev)
+  
+  
+### Similar solution
+   - [universal-model](https://universal-model.github.io/?utm_campaign=Vue.js%20News&utm_medium=email&utm_source=Revue%20newsletter)
 
 
 ## Performance
