@@ -41,6 +41,10 @@ State is not the Model
 - [Pure rendering in the light of time and state](https://medium.com/@mweststrate/pure-rendering-in-the-light-of-time-and-state-4b537d8d40b1)
 - [Pure UI Control](https://medium.com/@asolove/pure-ui-control-ac8d1be97a8d)
 
+## MVP
+* [Potel](http://www.wildcrest.com/Potel/Portfolio/mvp.pdf)
+* [Dolphin's MVP](http://www.object-arts.com/downloads/papers/TwistingTheTriad.PDF)
+
 
 ### MVU
 
