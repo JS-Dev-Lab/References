@@ -1,5 +1,8 @@
 # UI architecture
 
+## Overview
+
+[GUI Architectures - Martin Fowler](https://www.martinfowler.com/eaaDev/uiArchs.html)
 
 ## MV*
 
