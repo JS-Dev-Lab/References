@@ -2,7 +2,9 @@
 
 ## Overview
 
-[GUI Architectures - Martin Fowler](https://www.martinfowler.com/eaaDev/uiArchs.html)
+- [GUI Architectures - Martin Fowler](https://www.martinfowler.com/eaaDev/uiArchs.html)
+- [Interactive Application Architecture](https://aspiringcraftsman.com/2007/08/25/interactive-application-architecture/)
+- [Contemporary Front-end Architectures](https://blog.webf.zone/contemporary-front-end-architectures-fb5b500b0231)
 
 ## MV*
 
